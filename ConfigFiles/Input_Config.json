@@ -1,0 +1,8 @@
+{
+  "inp_related":
+	{	
+	"Path" : "../Input_Data",
+	"PaymentDB_CSVFile" : "2022-04-28-PaymentDB.csv",
+	"Monthly_SourceDataFile" : "2022_Jan.csv"
+	}
+}
